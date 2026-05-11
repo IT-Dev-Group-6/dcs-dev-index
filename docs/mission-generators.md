@@ -23,7 +23,7 @@ Advanced quick mission generator. Creates complete scenarios across a wide range
 ---
 
 ### [DCT](https://github.com/jtoppins/dct)
-**Release:** [v0.11.2](https://github.com/jtoppins/dct/releases/tag/v0.11.2)
+**Release:** [v0.11.2](https://github.com/jtoppins/dct/releases/tag/v0.11.2) · last commit 2024-11-05
 Dynamic Campaign Tools. Lua-based framework for persistent server-side campaigns. Mission designers define templates and tasks; DCT manages state between server restarts.
 
 - **Docs:** https://jtoppins.github.io/dct/
