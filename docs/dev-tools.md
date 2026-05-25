@@ -11,7 +11,7 @@ Python library for programmatically creating and modifying DCS `.miz` files. Sup
 ---
 
 ### [DCS-BIOS](https://github.com/DCS-Skunkworks/dcs-bios)
-**Release:** [v0.11.3](https://github.com/DCS-Skunkworks/dcs-bios/releases/tag/v0.11.3)
+**Release:** [v0.11.4](https://github.com/DCS-Skunkworks/dcs-bios/releases/tag/v0.11.4)
 Export hook that exposes cockpit control states over serial/UDP for hardware cockpit builders. The standard for DIY pit integration with Arduino or ESP32.
 
 - **Docs:** https://dcs-bios.readthedocs.io/
@@ -19,7 +19,7 @@ Export hook that exposes cockpit control states over serial/UDP for hardware coc
 ---
 
 ### [DCS-BIOS Arduino Library](https://github.com/DCS-Skunkworks/dcs-bios-arduino-library)
-**Release:** [0.3.12](https://github.com/DCS-Skunkworks/dcs-bios-arduino-library/releases/tag/0.3.12)
+**Release:** [0.3.13](https://github.com/DCS-Skunkworks/dcs-bios-arduino-library/releases/tag/0.3.13)
 Arduino library for communicating with DCS-BIOS to drive physical switches, encoders, buttons, and displays in a hardware cockpit.
 
 ---
