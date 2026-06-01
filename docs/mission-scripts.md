@@ -29,7 +29,7 @@ Self-hostable AI GCI controller over SRS. Voice recognition (local or cloud STT)
 ---
 
 ### [Splash Damage](https://github.com/stephenpostlethwaite/DCSSplashDamageScript)
-**Release:** [2026-05-19](https://github.com/stephenpostlethwaite/DCSSplashDamageScript)
+**Release:** [2026-05-30](https://github.com/stephenpostlethwaite/DCSSplashDamageScript)
 Adds realistic area-effect blast damage, secondary explosions, and shaped charge behavior to DCS ordnance. Commonly added to servers to improve ground combat realism.
 
 ---
