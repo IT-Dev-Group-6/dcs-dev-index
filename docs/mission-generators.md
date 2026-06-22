@@ -11,7 +11,7 @@ Active community fork of DCS Liberation. Turn-based dynamic campaign engine — 
 ---
 
 ### [DCS Liberation](https://github.com/dcs-liberation/dcs_liberation)
-**Release:** [14.1.0](https://github.com/dcs-liberation/dcs_liberation/releases/tag/14.1.0)
+**Release:** [15.0.0](https://github.com/dcs-liberation/dcs_liberation/releases/tag/15.0.0)
 Original turn-based single-player/co-op dynamic campaign. Generates complete DCS missions from a persistent combat environment. Retribution is the preferred fork for new installs.
 
 ---
