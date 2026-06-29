@@ -23,7 +23,7 @@ Integrated Air Defense System behavior. SAM sites and EW radars share tracks, sh
 ---
 
 ### [SkyEye](https://github.com/dharmab/skyeye)
-**Release:** [v1.9.2](https://github.com/dharmab/skyeye/releases/tag/v1.9.2)
+**Release:** [v1.9.3](https://github.com/dharmab/skyeye/releases/tag/v1.9.3)
 Self-hostable AI GCI controller over SRS. Voice recognition (local or cloud STT) + neural TTS. Supports PICTURE, BOGEY DOPE, DECLARE, SNAPLOCK, SPIKED, STROBE, ALPHA CHECK, and automatic THREAT/MERGED/FADED callouts. Integrates with DCSServerBot.
 
 ---
