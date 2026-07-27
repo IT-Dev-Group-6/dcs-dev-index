@@ -19,7 +19,7 @@ gRPC server for DCS. Runs as a Lua hook inside the server and exposes real-time 
 ---
 
 ### [DCS-SRS](https://github.com/ciribob/DCS-SimpleRadioStandalone)
-**Release:** [2.3.8.2](https://github.com/ciribob/DCS-SimpleRadioStandalone/releases/tag/2.3.8.2)
+**Release:** [2.4.0.0](https://github.com/ciribob/DCS-SimpleRadioStandalone/releases/tag/2.4.0.0)
 SimpleRadio Standalone. De facto VOIP radio system for DCS multiplayer. Integrates with in-cockpit radio frequencies for full-fidelity modules; manual tuning for FC3 aircraft. Required on virtually every serious multiplayer server.
 
 - **Website:** http://dcssimpleradio.com/
