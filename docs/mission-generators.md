@@ -17,7 +17,7 @@ Original turn-based single-player/co-op dynamic campaign. Generates complete DCS
 ---
 
 ### [Briefing Room](https://github.com/DCS-BR-Tools/briefing-room-for-dcs)
-**Release:** [release-2026.07.04-20260704-074043-28699398890-1](https://github.com/DCS-BR-Tools/briefing-room-for-dcs/releases/tag/release-2026.07.04-20260704-074043-28699398890-1)
+**Release:** [release-2026.08.26-20260826-231046-33022236682-1](https://github.com/DCS-BR-Tools/briefing-room-for-dcs/releases/tag/release-2026.08.26-20260826-231046-33022236682-1)
 Advanced quick mission generator. Creates complete scenarios across a wide range of mission types and theaters. Substantially more capable than ED's built-in fast mission generator.
 
 ---
