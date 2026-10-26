@@ -5,7 +5,7 @@ Tools for building, editing, and debugging DCS content outside the mission edito
 ---
 
 ### [pydcs](https://github.com/pydcs/dcs)
-**Release:** [v0.13.0](https://github.com/pydcs/dcs/releases/tag/v0.13.0)
+**Release:** [v1.0.0](https://github.com/pydcs/dcs/releases/tag/v1.0.0)
 Python library for programmatically creating and modifying DCS `.miz` files. Supports unit/group/waypoint creation, payload assignment, trigger scripting, and data export. Used as the backend by DCS Liberation and Retribution.
 
 ---
